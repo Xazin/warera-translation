@@ -15,11 +15,11 @@ msgstr ""
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:411
 msgid " - Reason: {0}"
-msgstr ""
+msgstr "- Årsag: {0}"
 
 #: src/components/_user/premium/PremiumActions.tsx:71
 msgid " Gift a sub"
-msgstr ""
+msgstr "Giv et abonnement"
 
 #. placeholder {0}: gameConfig?.battle.regionNotLinkedToCapitalMalusPercent
 #: src/pages/region/[regionId]/index.tsx:182
@@ -34,7 +34,7 @@ msgstr ""
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
 msgid "{0} & allies"
-msgstr ""
+msgstr "{0} & allierede"
 
 #. placeholder {0}: lawConfig.minActiveCitizen
 #: src/components/_political/law/Law.tsx:120
@@ -54,19 +54,19 @@ msgstr ""
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:144
 msgid "{0} days cooldown"
-msgstr ""
+msgstr "{0} dages nedkøling"
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/pages/user/[userId]/skills.tsx:169
 msgid "{0} Free"
-msgstr ""
+msgstr "{0} Gratis"
 
 #. placeholder {0}: lawConfig?.coolDownInHours
 #. placeholder {0}: motionConfig.coolDownInHours
 #: src/components/_political/law/Law.tsx:111
 #: src/components/_political/partyMotion/PartyMotion.tsx:109
 msgid "{0} hours"
-msgstr ""
+msgstr "{0} timer"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:636
@@ -87,7 +87,7 @@ msgstr "{0}s virksomheder"
 #. placeholder {1}: companiesLimit ?? 1
 #: src/components/_economy/company/CompanyDropdown.tsx:182
 msgid "{0}/{1} active"
-msgstr ""
+msgstr "{0}/{1} aktive"
 
 #. placeholder {0}: companyCountry.taxes.income
 #: src/components/_economy/company/CompanyTags.tsx:50
@@ -135,7 +135,7 @@ msgstr ""
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:49
 msgid "{score}/{0} Rounds"
-msgstr ""
+msgstr "{score}/{0} runder"
 
 #: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1691
 msgid "<0/> accepted a contract"
-msgstr ""
+msgstr "<0/> accepterede en kontrakt"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:399
 #: src/components/_user/notification/notification.frontConfig.tsx:1230
